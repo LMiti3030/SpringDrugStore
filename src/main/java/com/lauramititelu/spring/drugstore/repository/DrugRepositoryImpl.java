@@ -20,7 +20,7 @@ public class DrugRepositoryImpl implements DrugRepository {
         drugs.add(new Drug("Aspirina", 3.5, "3508"));
         drugs.add(new Drug("Nurofen", 17.3, "3982"));
         drugs.add(new Drug("Vigantoletten", 10.3, "3988"));
-        drugs.add(new Drug());
+        //drugs.add(new Drug());
         return drugs;
     }
 
